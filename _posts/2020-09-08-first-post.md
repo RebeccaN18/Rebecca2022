@@ -1,5 +1,3 @@
-# About Me!!
-
 Hey y’all! My name is Rebecca, but my friends all call me Becca. I’m 20 years old and am currently in my third year at Christopher Newport University. I came to CNU to study Communications and am also double minoring in Digital Humanities and Leadership. As a DH minor this class seemed like the perfect elective for my major. 
 
 Outside of academics I’m a 3 year volunteer at the [Virginia War Museum.](http://www.warmuseum.org/) I adore cataloging and researching artifacts and setting up exhibits. Digital humanities could go a long way to changing and improving how we experience museums and I love using what I’ve learned to help where I volunteer. One of the biggest projects I’m tackling now is the complete digital archiving of everything in the museum as well as important tags and info to make it easy to use an archival tool to sort, organize, and find items, their information, and where they’re stored
