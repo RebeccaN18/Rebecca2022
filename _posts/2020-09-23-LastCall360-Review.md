@@ -19,5 +19,5 @@ Speaking of finishes, how does NHTSA wrap all of this up? Well at the end of the
 [Insert photo]: “bad” ending
 
 	My greatest praises for this project are the tiny details that allow it to be relatable, realistic, and an effective learning experience: your friends asking more and more concerned about how much you’re drinking if you plan to drive, the bouncer kicking you out when you’re too drunk, the impossibility of winning a game blasted drunk. On the other hand a few larger details are also my greatest critique. The 360 tech was fairly new when this was created, and thus even when fully sober some of the images are blurry or low-res. The audio can sometimes lag behind the movement of actors and throw off the realism. Lastly, if you’re kicked out of the cocktail lounge as opposed to the sports bar there is no option to move on. The experience is stuck, with no way to finish the “game” from there on. 
-  
+
 	Overall, this project is incredibly unique, and effectively uses tech to help solve an issue in a new way that far surpasses other attempts. Whether you’re looking for a teaching tool or just an interesting half hour, I highly recommend trying this experience out. 
