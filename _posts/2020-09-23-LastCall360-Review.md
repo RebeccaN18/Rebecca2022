@@ -8,7 +8,7 @@ NHSTA created LastCall360 in December 2016. At the time Google 360 was a brand n
 
 ![A photo of MatPat welcoming you into a bar](https://Rebecca2022.github.io/Rebecca2022/images/Welcome.png)
 	
-Your first moments in LastCall360 pose a simple question, _cocktail lounge_ or a **sports bar**? Whichever you choose, LastCall360 then shows you your drink meter. It shows how much you’ve been drinking through the night. It goes up with alcohol and down with time and water. It also explains a few basic commands. The rest of the experience plays out like a “Choose Your Own Adventure” book. 
+Your first moments in LastCall360 pose a simple question, _cocktail lounge_ or a **sports bar**? Whichever you choose, LastCall360 then shows your drink meter. It shows how much you’ve been drinking through the night. It goes up with alcohol and down with time and water. It also explains a few basic commands. The rest of the experience plays out like a “Choose Your Own Adventure” book. 
 
 ![A photo of MatPat offering you a choice of drinks, water, beer, wine, or a cocktail](https://Rebecca2022.github.io/Rebecca2022/images/PickaDrink.png)
 
