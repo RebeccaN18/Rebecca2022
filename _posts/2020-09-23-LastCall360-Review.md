@@ -4,7 +4,7 @@
 
 Drunk driving is an issue you have heard about since you were first taught how to drive, yet, it’s still a problem that plagues the US. NHTSA has launched dozens of drunk driving campaigns, and LastCall360 is one of the most innovative. Many other drunk driving campaigns come off as either clinical or overly dramatized. Both tones fail for the same reason: It doesn’t feel like something real, it feels _scripted_.  The lack of a patronizing tone that is often evident in other campaigns is one of my primary praises of LastCall360. Throughout the experience you feel like the situation is a completely plausible one, it at least _resembles_ a Friday night you’ve had on your own. NHTSA made [and marketed](https://www.youtube.com/watch?v=WZ4U7Z9XRbY) LastCall360 reach a wider audience than previous campaigns. 
 
-NHSTA created in December 2016. At the time Google 360 was a brand new technology, It allows a consumer to interact more with an object and get a better sense of what it looks like in real life. LastCall360 takes this tech and runs with it. The experience can run on any internet capable device, and mobile users can use cardboard VR goggles in order to mimic a full VR experience. 
+NHSTA created LastCall360 in December 2016. At the time Google 360 was a brand new technology, It allows a consumer to interact more with an object and get a better sense of what it looks like in real life. LastCall360 takes this tech and runs with it. The experience can run on any internet capable device, and mobile users can use cardboard VR goggles in order to mimic a full VR experience. 
 
 ![A photo of MatPat welcoming you into a bar](https://Rebecca2022.github.io/Rebecca2022/images/Welcome.png)
 	
